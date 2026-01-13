@@ -1,0 +1,5 @@
+{
+  "name": "Fulfillo Internal Ops",
+  "description": "A comprehensive internal operations and fulfillment management system for brand logistics, featuring RBAC, order lifecycle management, and real-time dashboards.",
+  "requestFramePermissions": []
+}
